@@ -127,3 +127,5 @@ If these characters are present in the filename, the file owner must rename the 
 ### Permissions
 
 When requesting document library contents, you should have Read access to the SharePoint site as well as the document library and any folders leading to the requested file.
+
+https://learn.microsoft.com/en-us/power-query/additional-connector-functionality#kerberos-sso
